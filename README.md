@@ -2,8 +2,7 @@
 
 **Offensive Security Researcher · CTF Player · Malware Dev**
 
-Computer Engineering @ **Yıldız Technical University** & Erasmus+ @ **CTU Prague**  
-Top 100 globally in HTB University CTFs — currently **87nd** global rank in HTB Labs as University
+Computer Engineering @ **Yıldız Technical University** & Erasmus+ @ **CTU Prague** 
 
 ---
 
@@ -39,16 +38,6 @@ Top 100 globally in HTB University CTFs — currently **87nd** global rank in HT
 - Multi-threaded Python C2 server + Win32 API client implant  
 - Secure async tasking and modular remote execution  
 - Led 6-person dev team; designed core client-server protocol
-
----
-
-## 🏆 CTF / HTB highlights
-
-| Event | Result |
-|---|---|
-| HTB University CTF 2025 | **75th / 1013 teams** — 33/34 flags |
-| HTB Labs (prev. season) | **72nd globally as University** |
-| HTB Labs | **87nd global rank as University** |
 
 ---
 
